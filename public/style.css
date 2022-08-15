@@ -1,0 +1,19 @@
+
+footer{
+    background-color: rgba(0, 0, 0, 0.82);
+    padding: 50px 20px 20px 20px;
+    font-size: 90%;
+    margin: 0px;
+}
+
+.p{
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+.author{
+    text-align: end;
+    font-size: 90%;
+    color: white;
+    margin: 0px;
+}
