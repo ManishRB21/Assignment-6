@@ -5,6 +5,7 @@ export default function filterList(arr, method) {
     if(method == null) return products;
 
     else {
+          // eslint-disable-next-line array-callback-return
           return products.filter(product => {
           const sizeArray = product.size.split(" ");
           if(arr.length > 0) {
